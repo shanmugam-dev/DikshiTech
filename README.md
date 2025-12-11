@@ -48,3 +48,4 @@ npm run dev
 - Replace placeholder copy, contact email, and social URLs with your real company data before production use.
 
 
+
